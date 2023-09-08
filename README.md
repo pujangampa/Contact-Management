@@ -15,6 +15,7 @@ Features:
 5. Persistent Storage: Contacts are stored in a JSON file for persistence across sessions.
 
 Prerequisites :
+
 Before running the Contact Management System, ensure you have the following:
 
 Python installed on your computer.
